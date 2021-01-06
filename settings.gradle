@@ -1,0 +1,5 @@
+rootProject.name = 'java-lea'
+include 'algorithm-lea'
+include 'concurrent-lea'
+include 'base-lea'
+
